@@ -1,6 +1,6 @@
 {
-  "title": "GetliterOnepage",
-  "name": "getliteronepage",
+  "title": "one-page-sample",
+  "name": "one-page-sample",
   "version": "1.0.0",
   "description": "A one page HTML template built with Bootstrap",
   "keywords": [
@@ -9,21 +9,23 @@
     "html",
     "responsive",
     "theme",
-    "template"
+    "template",
+    "webpack",
+    "onepage"
   ],
-  "homepage": "https://www.getliter.com",
+  "homepage": "https://minhoyoodev.github.io/one-page-sample/",
   "bugs": {
-    "url": "https://github.com/minhoyooDEV/GetliterOnepage.git/issues",
-    "email": "info@getliter.com"
+    "url": "https://github.com/minhoyooDEV/one-page-sample.git/issues",
+    "email": "minho.yoo.dev@gmail.com.com"
   },
   "license": "MIT",
-  "author": "www.getliter.com",
+  "author": "minhoyooDEV",
   "contributors": [
     "mylo (https://github.com/minhoyooDEV/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/minhoyooDEV/GetliterOnepage.git"
+    "url": "https://github.com/minhoyooDEV/one-page-sample.git"
   },
   "scripts": {
     "build": "node_modules/.bin/webpack && node_modules/.bin/webpack-dev-server --progress --colors"
