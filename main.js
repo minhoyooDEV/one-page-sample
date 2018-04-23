@@ -1,7 +1,12 @@
-require("./vendor/jquery/jquery.min.js");
+// require("./vendor/jquery/jquery.min.js");
+// require("jquery");
 // require("vendor/jquery/jquery.min.js");
-require("./vendor/bootstrap/js/bootstrap.bundle.min.js");
+// require("./vendor/bootstrap/js/bootstrap.bundle.min.js");
 // require("vendor/bootstrap/js/bootstrap.bundle.min.js");
+require("jquery/dist/jquery");
+require("bootstrap/dist/js/bootstrap.bundle");
+require('chart.js/dist/Chart');
+require('scrollreveal/dist/scrollreveal');
 
 require('./index.html');
 //     <!-- Custom fonts for this template -->
